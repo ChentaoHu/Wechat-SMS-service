@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "wechat": "^2.1.0"
+  }
+}
